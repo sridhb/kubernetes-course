@@ -10,4 +10,4 @@ spec:
     image: sridhb/helloworld-kubernetes
     ports:
     - name: nodejs-port
-      containerPort: 3000
+      containerPort: 3001
